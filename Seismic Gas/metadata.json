@@ -1,0 +1,7 @@
+{
+  "name": "Seismic Guard Solutions",
+  "description": "A professional landing page and safety resource for seismic gas shutoff valve services in Sherman Oaks, CA, featuring an AI-powered safety assistant.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
